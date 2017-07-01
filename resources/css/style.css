@@ -1,0 +1,8 @@
+body {
+  font: helvetica;
+  text-align: center;
+}
+
+.opening {
+  background-image: image(src="./resources/images/background.png");
+}
